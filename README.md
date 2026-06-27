@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0524,50:2E0A52,100:5B21B6&height=220&section=header&text=PRATEEK%20BISHNOI&fontSize=48&fontColor=E9D5FF&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Full%20Stack%20Developer&descAlignY=58&descColor=C4B5FD" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0524,50:2E0A52,100:5B21B6&height=220&section=header&text=PRATEEK%20BISHNOI&fontSize=48&fontColor=E9D5FF&fontAlignY=38&animation=fadeIn&desc=Software%20Engineering%20Enthusiast%20%7C%20AI%2FML%20Enthusiast%20%7C%20Java%20Developer&descAlignY=58&descColor=C4B5FD" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=B.Tech+CSE+%40+Lovely+Professional+University;Aspiring+AI%2FML+%26+Full+Stack+Engineer;Turning+Data+Into+Decisions;Always+Building.+Always+Learning." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=B.Tech+CSE+%40+Lovely+Professional+University;Software+Engineering+Enthusiast;Java+%26+DSA+Focused;Turning+Data+Into+Decisions." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -19,12 +19,6 @@
 <a href="mailto:prateekbishnoi24@gmail.com"><img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1E1033" /></a>
 <a href="https://leetcode.com/u/PrateekBishnoi/"><img src="https://img.shields.io/badge/LeetCode-5B21B6?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1E1033" /></a>
 
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=prateek2413&style=flat-square&color=7c3aed&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/prateek2413?style=flat-square&color=8b5cf6&labelColor=1E1033&label=Followers)
-![Stars](https://img.shields.io/github/stars/prateek2413?style=flat-square&color=a78bfa&labelColor=1E1033&label=Stars)
-
 </div>
 
 <br/>
@@ -35,14 +29,15 @@
 
 <img align="right" width="280" src="https://capsule-render.vercel.app/api?type=transparent&color=0:7C3AED,100:4C1D95&height=1" />
 
-I'm a **Computer Science & Engineering** undergraduate at **Lovely Professional University**, building a strong foundation across **software engineering, data analytics, and AI/ML fundamentals**. My work spans **systems-level programming in C++**, **data-driven dashboards in Python & Power BI**, and **frontend fundamentals in HTML/CSS** — with a clear trajectory toward full-stack and AI-augmented engineering roles.
+I'm a **Computer Science & Engineering** undergraduate at **Lovely Professional University**, with **Java** as the language I reach for first — for data structures & algorithms, OOP-driven design, and building things the right way from the ground up. Alongside Java, I work across **C++ for systems-level programming**, **Python/Power BI for data analytics**, and core CS fundamentals (DBMS, OS, Computer Networks).
 
-I approach problems with a **product engineering mindset** — not just "does it run," but "does it solve a real problem, cleanly and legibly for the next person who reads it." I'm currently deepening my command of **Data Structures & Algorithms, OOP, DBMS, OS, and Computer Networks** as the core engineering toolkit beneath everything I build.
+My focus right now is sharpening **Java fundamentals and DSA** as the backbone of strong software engineering, while applying that same rigor to data-driven projects and analytics work. I care about **clean, well-structured code** — OOP done properly, not just code that compiles.
 
 ```yaml
-Engineering Focus:    Software Engineering · Data Analytics · AI/ML Fundamentals
+Primary Language:     Java
+Engineering Focus:    Data Structures & Algorithms (Java) · OOP · Data Analytics
 Mindset:              Clean code · Practical problem-solving · Continuous learning
-Currently:            Strengthening DSA (Java) + exploring applied AI/ML
+Currently:            Strengthening Java + DSA, exploring applied AI/ML
 ```
 
 ### 🎯 Open To
@@ -65,16 +60,6 @@ Currently:            Strengthening DSA (Java) + exploring applied AI/ML
 **Languages**
 
 ![Skills](https://skillicons.dev/icons?i=java,cpp,python,c&theme=dark)
-
-**Frontend**
-
-![Skills](https://skillicons.dev/icons?i=html,css&theme=dark)
-
-**Backend, Data & Databases**
-
-![Skills](https://skillicons.dev/icons?i=mysql&theme=dark)
-![Power BI](https://img.shields.io/badge/Power%20BI-1E1033?style=flat-square&logo=powerbi&logoColor=F2C811)
-![Tableau](https://img.shields.io/badge/Tableau-1E1033?style=flat-square&logo=tableau&logoColor=E97627)
 
 **Cloud, DevOps & Tooling**
 
@@ -260,16 +245,6 @@ A virtual job simulation replicating real analyst workflows used at Deloitte Aus
 
 ---
 
-## 🟣 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=prateek2413&theme=darkhub&no-frame=true&row=1&column=6&margin-w=10" />
-
-</div>
-
----
-
 ## 🟣 Contribution Activity
 
 <div align="center">
@@ -277,18 +252,6 @@ A virtual job simulation replicating real analyst workflows used at Deloitte Aus
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=prateek2413&theme=tokyo-night&hide_border=true&bg_color=0F0524&color=A78BFA&line=7C3AED&point=E9D5FF" />
 
 </div>
-
----
-
-## 🟣 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/prateek2413/prateek2413/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-</div>
-
-> Generated via the [`platane/snk`](https://github.com/Platane/snk) GitHub Action — add the workflow to your profile repo to activate.
 
 ---
 
