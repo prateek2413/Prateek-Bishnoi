@@ -79,7 +79,7 @@ Currently:            Strengthening Java + DSA, exploring applied AI/ML
 | **AI & ML Foundations** | 🟣 Foundational | Completed *Introduction to AI & ML* (Skillera, 2025) — covering core ML concepts and terminology |
 | **Data Analytics** | 🟢 Applied | Hands-on with forensic data analysis, trend classification & dashboarding (Excel, Tableau, Power BI) |
 | **Applied Python for Data** | 🟢 Applied | Built data cleaning + visualization pipelines for real-world government datasets |
-| **Algorithmic Foundations** | 🟢 Applied | Strengthening DSA (Java) as groundwork for future ML/algorithm-heavy work |
+| **Algorithmic Foundations** | 🟢 Applied | Strengthening DSA (Java) as groundwork for future algorithm-heavy work |
 
 </div>
 
