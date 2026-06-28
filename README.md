@@ -260,21 +260,20 @@ A virtual job simulation replicating real analyst workflows used at Deloitte Aus
 ```yaml
 Learning:
   - Advanced Data Structures & Algorithms (Java)
-  - Applied Machine Learning fundamentals
-  - Database Management Systems (DBMS) & System Design basics
+  - Core Computer Science (OOP, DBMS, OS, Computer Networks)
+  - Software Design & Problem Solving
 
 Building:
-  - Data-driven dashboards & analytics tools
-  - Stronger full-stack project portfolio
+  - Software Engineering and Full-Stack Projects
+  - Scalable, Resume-Ready Applications
 
 Exploring:
-  - AI/ML applied use-cases beyond foundational coursework
-  - Open source contribution opportunities
+  - Open Source Development
 
 Open To:
-  - Internships in Software Engineering / Data Analytics
-  - Entry-level Software Engineering roles
-  - Collaborative open-source projects
+  - Software Engineering Internships
+  - Entry-Level Software Engineer Roles
+  - Open Source Collaboration
 ```
 
 ---
