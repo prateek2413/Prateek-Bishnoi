@@ -184,7 +184,7 @@ A virtual job simulation replicating real analyst workflows used at Deloitte Aus
 |---|---|
 | 🎓 **CGPA 8.57** | B.Tech Computer Science & Engineering, Lovely Professional University |
 | 🏢 **Forage Simulation Completion** | Deloitte Australia — Data Analytics Job Simulation |
-| 📜 **5 Completed Certifications** | Spanning C++, Linux/Shell, AI & ML fundamentals, and C programming |
+| 📜 **5 Completed Certifications** | Programming in Java, Spanning C++, Linux/Shell,and AI & ML fundamentals |
 
 </div>
 
